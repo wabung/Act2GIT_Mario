@@ -1,0 +1,27 @@
+#titulo{
+    color: green;
+}
+
+nav{
+    background-color: greenyellow;
+    color: white;
+    display: flex;
+    height: 8vh;
+    align-items: center;
+}
+
+nav p{
+    margin: 0 4vw;
+    font-size: 1.3vw;
+}
+
+main{
+    height: 62vh;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
