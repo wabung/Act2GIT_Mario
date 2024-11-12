@@ -31,3 +31,9 @@ a{
     color: inherit;
     font-family: inherit;
 }
+
+img{
+    width: 20%;
+    height: 40%;
+    padding: 1vw;
+}
